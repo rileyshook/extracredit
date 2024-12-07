@@ -1,0 +1,21 @@
+/* Style the page */
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0; /* Neutral background color */
+  font-family: Arial, sans-serif; /* System font */
+}
+
+/* Style the name */
+h1 {
+  font-size: 5rem; /* Large text size */
+  color: #333; /* Dark text color */
+  text-decoration: underline; /* Adds emphasis */
+  font-weight: bold; /* Bold font style */
+  letter-spacing: 3px; /* Spacing between letters */
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3); /* Subtle drop shadow */
+}
